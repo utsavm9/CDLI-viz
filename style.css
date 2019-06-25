@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
-body {
-    font-family: 'Open Sans', sans-serif;
+#map-viz {
+    height: 500px;
 }
 
-#mapid {
-    height: 500px;
+.dropdown-menu {
+    cursor: pointer;
 }
